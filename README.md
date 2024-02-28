@@ -21,13 +21,13 @@
     │   └── serial [d]
     └── ...
 
-[a] https://github.com/jpsm-at-deec/libsegwayrmp (jammy branch)
+[a] [jpsm-at-deec/libsegwayrmp](https://github.com/jpsm-at-deec/libsegwayrmp) (jammy branch)
 
-[b] https://github.com/jpsm-at-deec/ros2_segway_rmp/
+[b] [jpsm-at-deec/ros2_segway_rmp](https://github.com/jpsm-at-deec/ros2_segway_rmp/)
 
-[c] https://github.com/jpsm-at-deec/segway_interfaces
+[c] [jpsm-at-deec/segway_interfaces](https://github.com/jpsm-at-deec/segway_interfaces)
 
-[d] https://github.com/jpsm-at-deec/serial
+[d] [RoverRobotics-forks/serial-ros2](https://github.com/RoverRobotics-forks/serial-ros2)
 
 .
 
