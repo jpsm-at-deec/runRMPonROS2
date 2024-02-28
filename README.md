@@ -10,11 +10,11 @@
 
     chmod u+x ./src/test.sh
         
-.   
+~  
 
     ./src/test.sh
 
-.
+~
 
     .
     ├── ...
