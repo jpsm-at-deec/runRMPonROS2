@@ -4,6 +4,10 @@
     git clone https://github.com/jpsm-at-deec/runRMPonROS2.git
 .    
 
+    cd runRMPonROS2
+
+.
+
     chmod u+x ./src/test.sh
         
 .   
