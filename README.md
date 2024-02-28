@@ -1,5 +1,17 @@
 # runRMPonROS2 (provisional)
 
+
+    git clone https://github.com/jpsm-at-deec/runRMPonROS2.git
+.    
+
+    chmod u+x ./src/test.sh
+        
+.   
+
+    ./src/test.sh
+
+.
+
     .
     ├── ...
     ├── src                    
@@ -17,4 +29,7 @@
 
 [d] https://github.com/jpsm-at-deec/serial
 
-    git clone https://github.com/jpsm-at-deec/runRMPonROS2.git
+.
+
+    source ~/ros2_humble_install_path_of_choice/setup.bash
+
