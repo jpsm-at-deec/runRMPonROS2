@@ -41,3 +41,15 @@
 
     colcon build
 
+~
+
+    source ./install/setup.bash 
+
+~
+
+    cp ./install/ros2_segway_rmp/launch/ros2_segway_rmp/launch/ros2_segway_rmp_launch.xml ./install/ros2_segway_rmp/share/ros2_segway_rmp/ros2_segway_rmp_launch.xml
+
+~ 
+
+    ros2 launch ros2_segway_rmp ./install/ros2_segway_rmp/launch/ros2_segway_rmp/launch/ros2_segway_rmp_launch.xml
+
