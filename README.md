@@ -2,11 +2,11 @@
 
 
     git clone https://github.com/jpsm-at-deec/runRMPonROS2.git
-.    
+~    
 
     cd runRMPonROS2
 
-.
+~
 
     chmod u+x ./src/test.sh
         
@@ -33,7 +33,11 @@
 
 [d] [RoverRobotics-forks/serial-ros2](https://github.com/RoverRobotics-forks/serial-ros2)
 
-.
+~
 
     source ~/ros2_humble_install_path_of_choice/setup.bash
+
+~
+
+    colcon build
 
